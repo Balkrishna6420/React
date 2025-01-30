@@ -1,5 +1,5 @@
 # Node Artifact files
-node modules/
+node_modules/
 dist/
 
 # Compiled java class files
